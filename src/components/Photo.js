@@ -1,0 +1,1 @@
+// for gallery photos ( smaller expandable images )
